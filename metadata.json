@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Sikkim Manipal University Online Degrees",
+  "description": "Official landing page for Sikkim Manipal University (SMU) UGC-entitled online degree programmes: MBA, BBA, B.Com, and MA English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
